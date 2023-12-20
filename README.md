@@ -12,7 +12,7 @@ CookNow is an application that provides recipe recommendations to help people fi
 | 📱 Mobile Development 💡 | [MD Repository](https://github.com/CookNow-Bangkit2023/Mobile-Development) |
 
 # 📲Preview of CookNow - Bangkit Capstone Project 2023 Batch 2
-  ![CookNow Project](image.png)
+  ![CookNow Project](preview.png)
 # 👊The Team
 
 |            Member           | Student ID |        Path        |        Contacts        |
