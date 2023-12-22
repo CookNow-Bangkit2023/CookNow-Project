@@ -1,7 +1,10 @@
 <h1 align="center">CookNow <samp><i> ~ Cook Smart, Waste Nothing</i></samp></h1>
 
+# Cooknow Apk
+[Application CookNow Apk](app-cooknow.apk)
+
 # 📑About Our Capstone Project
-CookNow is an application that provides recipe recommendations to help people find recipes easier.
+CookNow is a recipe application designed to provide users with recipe recommendations tailored to their available ingredients, assisting them in utilizing leftover items and contributing to the reduction of food waste.
 
 # 📗Repositories
 
@@ -13,6 +16,7 @@ CookNow is an application that provides recipe recommendations to help people fi
 
 # 📲Preview of CookNow - Bangkit Capstone Project 2023 Batch 2
   ![CookNow Project](preview.png)
+
 # 👊The Team
 
 |            Member           | Student ID |        Path        |        Contacts        |
